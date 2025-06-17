@@ -5,5 +5,4 @@ openpyxl
 xlrd
 unidecode
 pymupdf
-
 streamlit
