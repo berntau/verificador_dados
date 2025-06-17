@@ -3,3 +3,5 @@ openpyxl
 pdfplumber
 openpyxl
 xlrd
+unidecode
+pymupdf
